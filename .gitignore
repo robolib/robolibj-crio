@@ -1,0 +1,13 @@
+*.class
+
+# Package Files #
+*.jar
+
+/build/
+/doc/
+/test/
+/resources/
+/release/
+/nbproject/private/
+/dist/
+
