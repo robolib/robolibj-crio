@@ -1,8 +1,6 @@
 RoboLibJ
 ==
-A Better WPILib
-
-Javadoc: http://djwolf.no-ip.org/projects/wwrobotics/RoboLibJ/code/javadoc/index.html
+A an attempt at a WPILib
 
 File Prefixes
 --
